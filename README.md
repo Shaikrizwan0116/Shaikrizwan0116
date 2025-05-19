@@ -73,32 +73,11 @@ Connect with me:
     </a>
 </p>
 
- 📊 My Github Stats
-
-
-  <br/>
-    <a href="https://github.com/Shaikrizwan0116/github-readme-stats"><img alt="Rizwan Shaik Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shaikrizwan0116&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Shaikrizwan0116/github-readme-stats"><img alt="Rizwan Shaik Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikrizwan0116&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
----
-<br/>
-<br/>
-
-
 
 <a href="https://github.com/TejaswiniMahale/github-readme-activity-graph"><img alt="Rizwan Shaik Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TejaswiniMahale&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
-When not coding:<br>
-- Playing Badminton🏸<br>
-- Crafting💡<br>
-- Travelling(Historical Places) 🏍️<br>
-- Sleeping💤<br>
-
-----
 
 <code>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
