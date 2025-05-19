@@ -30,13 +30,7 @@ helpful in learning Web Development
   <li>Front-end Development</li>
 </ul>
 <br/>
-❤ Views and Followers <br/>
-<a href="https://github.com/Shaikrizwan0116/github-profile-views-counter">
-   
-</a>
 
-
-<br/>
 Connect with me:
 <br/>
 <p align="left">
