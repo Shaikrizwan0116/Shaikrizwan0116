@@ -73,11 +73,7 @@ Connect with me:
     </a>
 </p>
 
-
-<a href="https://github.com/TejaswiniMahale/github-readme-activity-graph"><img alt="Rizwan Shaik Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TejaswiniMahale&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
-
 
 <code>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
