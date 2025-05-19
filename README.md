@@ -2,7 +2,7 @@
 
  <h1>Hi there 👋</h1>
 
-<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Rizwan+Shaik!;FrontEnd Developer...;" style="max-width: 100%;">
+<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Rizwan+Shaik!;FrontEnd+Developer...;" style="max-width: 100%;">
 
 <br/>
 I'm a passionate self-learner and Front-end Web Developer 
