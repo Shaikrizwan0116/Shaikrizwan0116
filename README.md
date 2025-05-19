@@ -41,7 +41,7 @@ Connect with me:
 <br/>
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/shaik-rizwan01/"><img src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png"/></a>
+<a href = "https://www.linkedin.com/in/shaik-rizwan01/"></a>
 <!-- <a href = "https://www.instagram.com/nayan_ingale/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 
 </p>
@@ -88,7 +88,7 @@ Connect with me:
 
 
 
-<a href="https://github.com/TejaswiniMahale/github-readme-activity-graph"><img alt="Tejaswini Mahale's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TejaswiniMahale&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/TejaswiniMahale/github-readme-activity-graph"><img alt="Rizwan Shaik Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TejaswiniMahale&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
