@@ -68,8 +68,8 @@ Connect with me:
 <br/>
 
 <p align="center">
-    <a href="https://github.com/TejaswiniMahale/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tejaswini Mahale's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TejaswiniMahale&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Shaikrizwan/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rizwan Shaik streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RizwanShaik&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
