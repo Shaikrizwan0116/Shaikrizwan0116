@@ -2,7 +2,7 @@
 
  <h1>Hi there 👋</h1>
 
-<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Rizwan+Shaik!;Learning+Web+Development...;" style="max-width: 100%;">
+<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Rizwan+Shaik!;FrontEnd Developer...;" style="max-width: 100%;">
 
 <br/>
 I'm a passionate self-learner and Front-end Web Developer 
@@ -41,7 +41,7 @@ Connect with me:
 <br/>
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/tejaswini-mahale-a78062232/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/shaik-rizwan01/"><img src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png"/></a>
 <!-- <a href = "https://www.instagram.com/nayan_ingale/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 
 </p>
@@ -77,8 +77,8 @@ Connect with me:
 
 
   <br/>
-    <a href="https://github.com/TejaswiniMahale/github-readme-stats"><img alt="Tejaswini Mahale's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TejaswiniMahale&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/TejaswiniMahale/github-readme-stats"><img alt="Tejaswini Mahale's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejaswiniMahale&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Shaikrizwan0116/github-readme-stats"><img alt="Rizwan Shaik Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shaikrizwan0116&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Shaikrizwan0116/github-readme-stats"><img alt="Rizwan Shaik Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikrizwan0116&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
