@@ -1,65 +1,61 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rizwan Shaik+!;" />
+</h1>
 
+<h3 align="center" style="color:red;">A Front-End Developer | React Enthusiast</h3>
 
- <h1>Hi there 👋</h1>
-
-<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Rizwan+Shaik!;FrontEnd+Developer...;" style="max-width: 100%;">
 
 <br/>
-I'm a passionate self-learner and Front-end Web Developer 
-<!-- skilled in MERN Stack -->
-who focuses 
-on writing clean, elegant and efficient code. Always looking to find patterns of which are 
-helpful in learning Web Development
-<br/>
- 🙋‍♂️ About Me
 
-- 🔭  Proficient in **Front-end and UI designing** 
-
-- 🌱 Proficient in **Data Structures and Algorithms.** 
-
-- 👯 I’m looking to collaborate with any **Web Devlopment projects.** 
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://tejaswini-mahale.vercel.app//)**<br/>
-
-- 📫 How to reach me **shaikrizwan0116@gmail.com**<br/>
-
-
-👯 I’m looking to collaborate on ..
-<ul>
-  <li>Open source Projects</li>
-  <li>Front-end Development</li>
-</ul>
-<br/>
-
-Connect with me:
-<br/>
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/shaik-rizwan01/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<!-- <a href = "https://www.instagram.com/nayan_ingale/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
-
-</p>
-
-<br/>
- 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-<!--     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>  -->
-<!--     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>  -->
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-<!--     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
-<!--     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>    -->
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+<div align="left">
     
-</p>
+ 👋 Hii....Iam Rizwan Shaik
+  
+ 🔭 I’m intresed in:<br> 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-🎯**Interactive Web Applications** – Bringing ideas to life with engaging user interfaces.<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-🎯**Responsive Design** – Crafting applications that look great on any device.<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-🎯**JavaScript & React Ecosystem** – Diving deep into React, and the latest tools in the React ecosystem.<br>
+ 
+ 🌱 I’m currently learning **HTML5, CSS3, JavaScript (ES6+), React**
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+ 💞 I'm looking to collaborate on.......developer roles.
+ 
+ 🛠️ Skills and Technologies:<br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -**Front-End:** HTML5, CSS3, JavaScript (ES6+),React <br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -**Styling Libraries:** CSS, Styled Components<br>
 
-<code>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
-</code>
+ 💬 Ask me about **HTML5, CSS3, JavaScript (ES6+), React....🧐[Here](https://github.com/Shaikrizwan0116)**
+
+ 🚀 Projects: **WeatherApp, TO-DO APP, Note App, Simple Quize.......React-Templates**<br>
+  
+ 👇 Check out more of my work in the pinned repositories below👇<br>
+ 🔗 **GitHub Link:** https://github.com/Shaikrizwan0116
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:shaikrizwan0116@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://github.com/Shaikrizwan0116" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/Shaikrizwan0116" target="_blank">
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Loj2RJP3vSiDvzSssQA7bb95bzqE2AeIeg&s" width="100px"; height="30px" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vscode,github"/>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+Shoot+Me+a+Message+📩;" />
+</div>
+
+<br/>
