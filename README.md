@@ -42,7 +42,8 @@ I am <b>actively looking for a Python Full Stack Developer role</b> where I can 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• User Authentication (Login / Signup)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Create, Edit & Delete Blog Posts<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Responsive UI using Bootstrap<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 <a href="https://shaikrizwan.pythonanywhere.com/" target="_blank"><b>View Project</b></a>
+&nbsp;&nbsp;&nbsp;&nbsp;🌐 Live Demo: 
+<a href="https://shaikrizwan.pythonanywhere.com/" target="_blank"><b>Visit Site</b></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;🌦️ Weather App | ✅ To-Do App | 📝 Notes App | 🎯 Quiz App
 
