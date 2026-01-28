@@ -1,61 +1,63 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rizwan+Shaik+!;" />
-</h1>
+# Hi 👋, I'm Shaik Rizwan
 
-<h3 align="center" style="color:red;">Python Full Stack Developer</h3>
+### 🚀 Python Full Stack Developer | Actively Looking for a Job
 
+I’m a passionate **Python Full Stack Developer** with hands-on experience in building web applications using **Django** and modern frontend technologies. I enjoy turning ideas into real-world applications and writing clean, scalable code.
 
-<br/>
+---
 
-<div align="left">
-    
- 👋 Hii....Iam Rizwan Shaik
-  
- 🔭 I’m intresed in:<br> 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-🎯**Interactive Web Applications** – Bringing ideas to life with engaging user interfaces.<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-🎯**Responsive Design** – Crafting applications that look great on any device.<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-🎯**JavaScript & React Ecosystem** – Diving deep into React, and the latest tools in the React ecosystem.<br>
- 
- 🌱 I’m currently learning **HTML5, CSS3, JavaScript (ES6+), React**
+## 🛠️ Tech Stack
 
- 💞 I'm looking to collaborate on.......developer roles.
- 
- 🛠️ Skills and Technologies:<br>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -**Front-End:** HTML5, CSS3, JavaScript (ES6+),React <br>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -**Styling Libraries:** CSS, Styled Components<br>
+**Backend**
+- Python
+- Django
 
- 💬 Ask me about **HTML5, CSS3, JavaScript (ES6+), React....🧐[Here](https://github.com/Shaikrizwan0116)**
+**Frontend**
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
 
- 🚀 Projects: **WeatherApp, TO-DO APP, Note App, Simple Quize.......React-Templates**<br>
-  
- 👇 Check out more of my work in the pinned repositories below👇<br>
- 🔗 **GitHub Link:** https://github.com/Shaikrizwan0116
- </div>
- 
-<div align="center"> 
-  <a href="mailto:shaikrizwan0116@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/shaik-rizwan01/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/Shaikrizwan0116" target="_blank">
-     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Loj2RJP3vSiDvzSssQA7bb95bzqE2AeIeg&s" width="100px"; height="30px" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+**Other**
+- Git & GitHub
+- REST APIs
+- Basic Database Management (SQLite / PostgreSQL)
 
- <hr/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vscode,github"/>
-</div>
+---
 
-<br/>
-<hr/>
+## 📌 Projects
 
-<div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+Shoot+Me+a+Message+📩;" />
-</div>
+### 📝 Blog Application
+A full-featured blog web application built using **Django**.
 
-<br/>
+**Features:**
+- User authentication (Login / Signup)
+- Create, edit, delete blog posts
+- Responsive UI with Bootstrap
+- Secure backend with Django ORM
+
+**Tech Used:**  
+`Python` · `Django` · `HTML` · `CSS` · `JavaScript` · `Bootstrap`
+
+👉 *Add your GitHub repo link here*
+
+---
+
+## 🎯 Career Goal
+
+I am **actively looking for a Python Full Stack Developer role**, where I can:
+- Contribute to real-world projects  
+- Improve my backend & frontend skills  
+- Grow as a software engineer  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: *your-email@example.com*
+- 💼 LinkedIn: *your-linkedin-profile*
+- 🧑‍💻 GitHub: [@Shaikrizwan0116](https://github.com/Shaikrizwan0116)
+
+---
+
+⭐ *Feel free to check out my repositories and connect with me!*
